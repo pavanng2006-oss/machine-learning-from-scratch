@@ -16,7 +16,9 @@ Implementation of Machine Learning algorithms from scratch using only NumPy (wit
 
 ### Unsupervised Learning
 
-*(Coming Soon)*
+- K-Means Clustering
+- Principal Component Analysis
+- DBSCAN(Density Based Spatial Clustering of Applications with Noise)
 
 ## Requirements
 
