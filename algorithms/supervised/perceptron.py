@@ -1,5 +1,4 @@
 import numpy as np
-
 def step_function(x):
     return np.where(x > 0, 1, 0)
 
