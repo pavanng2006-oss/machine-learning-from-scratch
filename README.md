@@ -13,6 +13,7 @@ Implementation of Machine Learning algorithms from scratch using only NumPy (wit
 - Gaussian Naive Bayes
 - Decision Tree Classifier (Gini Impurity)
 - Random Forest Classifier
+- Perceptron
 
 ### Unsupervised Learning
 
@@ -41,11 +42,12 @@ machine-learning-from-scratch/
 │   │   ├── gaussian_naive_bayes.py
 │   │   ├── decision_tree_classifier.py
 │   │   └── random_forest_classifier.py
+│   │   └── perceptron.py
 │   │
 │   └── unsupervised/
 │   │   ├── k_means_clustering.py
 │   │   ├── principal_component_analysis.py
-│   │   ├── 
+│   │   ├── DBSCAN.py
 │
 │
 └── datasets/
